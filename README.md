@@ -1,16 +1,14 @@
-# conversor_de_moedas
+# _&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_ Conversor de Moedas
+<br>
 
-A new Flutter project.
+#### Conversor de moedas(Reais, Euro e Dolar) baseado nas estátiscas da HG Finance, com atualização da cotação em tempo real.
 
-## Getting Started
+<br>
+<br>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![tela2](https://user-images.githubusercontent.com/79944786/131930119-35895b6e-e2ec-4bd7-b62d-649b83a5be26.png)_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_![tela4](https://user-images.githubusercontent.com/79944786/131930131-c708ccdc-5804-48c0-a402-e237f4a6b523.png)
+<br>
+<br>
+![tela5](https://user-images.githubusercontent.com/79944786/131930140-6cd0f89f-fc35-4cb2-b346-bbf954bba129.png)_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_![tela7](https://user-images.githubusercontent.com/79944786/131930145-991af88b-cd9e-45bd-bbf3-9ef2e2b0c0ff.png)
